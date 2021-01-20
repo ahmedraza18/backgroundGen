@@ -1,2 +1,2 @@
 # backgroundGen
-using it only for learning purposes
+A website that let you generate a background for your websites <br />
